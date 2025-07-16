@@ -1,0 +1,26 @@
+body {
+  background: #f6f3f3be;
+  padding: 200px;
+}
+
+#calculator {
+  max-width: 400px;
+  margin: auto;
+  background: #7e8e91d7;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#display {
+  height: 60px;
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  text-align: right;
+  padding: 10px;
+}
+
+.btn {
+  width: 22%;
+  margin: 1%;
+}
